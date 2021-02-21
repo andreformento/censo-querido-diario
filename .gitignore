@@ -137,3 +137,4 @@ censo/share/
 # Data
 notebooks/*.csv
 
+data/sqlite/
